@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acee7bb2.css",
+    "main.js": "/static/js/main.32272ac5.js",
+    "static/js/453.34a6600d.chunk.js": "/static/js/453.34a6600d.chunk.js",
+    "static/media/SquareLogo.gif": "/static/media/SquareLogo.ea836b24cf900e5e2ed1.gif",
+    "static/media/alltutors.png": "/static/media/alltutors.498d5da7a153f65a358a.png",
+    "static/media/user2.png": "/static/media/user2.1ed1f37f20781d4ee47f.png",
+    "static/media/certificate.PNG": "/static/media/certificate.227ac981656abac46819.PNG",
+    "static/media/user5.png": "/static/media/user5.2fee4326be3fde5ec55e.png",
+    "static/media/AllTutorsForm.png": "/static/media/AllTutorsForm.ef6f54973c296fda560f.png",
+    "static/media/WhatOffer.png": "/static/media/WhatOffer.ef46cd138d864a00b94a.png",
+    "static/media/user4.png": "/static/media/user4.f253032a15228155b376.png",
+    "static/media/bgimg.jpg": "/static/media/bgimg.eda7ce8fb659ba747fc7.jpg",
+    "static/media/derivative.png": "/static/media/derivative.1df446cf8a2185b8d948.png",
+    "static/media/funda.png": "/static/media/funda.e240387d5462dec605f7.png",
+    "static/media/Basics.png": "/static/media/Basics.0ad1984a6e5c12106215.png",
+    "static/media/technical.png": "/static/media/technical.ba51c60d2d432b4495ff.png",
+    "index.html": "/index.html",
+    "main.acee7bb2.css.map": "/static/css/main.acee7bb2.css.map",
+    "main.32272ac5.js.map": "/static/js/main.32272ac5.js.map",
+    "453.34a6600d.chunk.js.map": "/static/js/453.34a6600d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acee7bb2.css",
+    "static/js/main.32272ac5.js"
+  ]
+}
