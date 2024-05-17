@@ -20,9 +20,9 @@ app.use("/api/v1", require("./Routes/routes"))
 // task.start()
 
 // app.use(express.static(path.join(__dirname, 'public')));
-// app.get('/*', function (req, res) {
-//   res.sendFile(path.join(__dirname, 'public', 'index.html'));
-// });
+ app.get('/',(req,res)=>{
+   res.json({status:"success",message:"Testing")
+ });
 
 // const task = nodeCron.schedule('*/10 * * * *', async () => {
 //   // console.log('Running a job at 01:00 at America/Sao_Paulo timezone');
