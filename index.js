@@ -21,7 +21,7 @@ app.use("/api/v1", require("./Routes/routes"))
 
 // app.use(express.static(path.join(__dirname, 'public')));
  app.get('/',(req,res)=>{
-   res.json({status:"success",message:"Testing")
+   res.json({status:"success",message:"Testing"})
  });
 
 // const task = nodeCron.schedule('*/10 * * * *', async () => {
